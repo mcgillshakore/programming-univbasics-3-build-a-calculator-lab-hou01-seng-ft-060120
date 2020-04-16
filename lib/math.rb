@@ -14,6 +14,8 @@ divide
 end
 
 def multiplication(num1, num2)
+  multiple = num1 * num2
+  multiple
 
 end
 
