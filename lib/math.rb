@@ -16,13 +16,14 @@ end
 def multiplication(num1, num2)
   multiple = num1 * num2
   multiple
-
 end
 
 def modulo(num1, num2)
-
+  percent = num1 % num2
+  percent
 end
 
 def square_root(num)
-
+  sum = num**
+  sum
 end
